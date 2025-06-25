@@ -12,7 +12,7 @@ Olá! Me chamo **Arthur Ivo**, tenho 18 anos e sou estudante de **Sistemas de In
 Sou apaixonado por programação, principalmente no desenvolvimento web com foco em:
 
 - 🧩 **HTML, CSS e JavaScript**
-- 🐘 **PHP**
+- 🐘 **PHP** **Booststrap**
 - 🎯 Aprendendo novas tecnologias todos os dias
 
 ---
