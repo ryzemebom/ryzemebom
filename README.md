@@ -30,16 +30,15 @@ Sou apaixonado por programação, principalmente no desenvolvimento web com foco
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arthurivo&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurivo&layout=compact&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ryzemebom&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryzemebom&layout=compact&theme=dracula"/>
 </p>
 
 ---
 
 ### 📫 Contato
 
-- ✉️ arthurivo@exemplo.com *(substitua pelo seu e-mail real)*
-- 🌐 [Seu Portfólio ou LinkedIn](#) *(adicione o link aqui, se tiver)*
+- ✉️ arthuryvo@gmail.com
 
 ---
 
