@@ -1,10 +1,46 @@
-<a href="mailto:seuemailaqui@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<h1 align="center">Arthur Ivo 👨‍💻</h1>
 
+<p align="center">
+  🚀 Desenvolvedor em formação | 🎓 Sistemas de Informação | 💡 Entusiasta da Web
+</p>
 
-<div style="width: 200px;">
-<a href="https://github.com/SeuPerfilAqui/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuPerfilAqui&langs_count=8" alt="Top Langs" />
-</a>
-</div>
+---
+
+### 👋 Sobre mim
+
+Olá! Me chamo **Arthur Ivo**, tenho 18 anos e sou estudante de **Sistemas de Informação**.  
+Sou apaixonado por programação, principalmente no desenvolvimento web com foco em:
+
+- 🧩 **HTML, CSS e JavaScript**
+- 🐘 **PHP**
+- 🎯 Aprendendo novas tecnologias todos os dias
+
+---
+
+### 🛠️ Tecnologias que uso
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=fff)
+<!-- Adicione outras conforme for aprendendo -->
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arthurivo&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurivo&layout=compact&theme=dracula"/>
+</p>
+
+---
+
+### 📫 Contato
+
+- ✉️ arthurivo@exemplo.com *(substitua pelo seu e-mail real)*
+- 🌐 [Seu Portfólio ou LinkedIn](#) *(adicione o link aqui, se tiver)*
+
+---
+
+> “O sucesso é a soma de pequenos esforços repetidos dia após dia.” – Robert Collier
