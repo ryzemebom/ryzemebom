@@ -30,7 +30,7 @@ Sou apaixonado por programação, principalmente no desenvolvimento web com foco
 #### 🗄️ Banco de Dados
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="80" height="50"/>
 </p>
 
 #### 🔧 Ferramentas e Versionamento
