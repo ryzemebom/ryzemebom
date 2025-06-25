@@ -20,6 +20,7 @@ Sou apaixonado por programação, principalmente no desenvolvimento web com foco
 ### 🛠️ Tecnologias que uso
 
 #### 💻 Linguagens
+<div>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
@@ -39,7 +40,7 @@ Sou apaixonado por programação, principalmente no desenvolvimento web com foco
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
-
+</div>
 ---
 
 ### 📈 GitHub Stats
