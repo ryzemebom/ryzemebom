@@ -12,7 +12,7 @@ Olá! Me chamo **Arthur Ivo**, tenho 18 anos e sou estudante de **Sistemas de In
 Sou apaixonado por programação, principalmente no desenvolvimento web com foco em:
 
 - 🧩 **HTML, CSS e JavaScript**
-- 🐘 **PHP** e **Booststrap**
+- ⚙️ **PHP**, **TypeScript** **e** **React**
 - 🎯 Aprendendo novas tecnologias todos os dias
 
 ---
@@ -26,6 +26,7 @@ Sou apaixonado por programação, principalmente no desenvolvimento web com foco
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 </p>
 
