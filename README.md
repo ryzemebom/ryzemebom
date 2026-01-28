@@ -8,7 +8,7 @@
 
 ### 👋 Sobre mim
 
-Olá! Me chamo **Arthur Ivo**, tenho 18 anos e sou estudante de **Sistemas de Informação**.  
+Olá! Me chamo **Arthur Ivo**, tenho 19 anos e sou estudante de **Sistemas de Informação**.  
 Sou apaixonado por programação, principalmente no desenvolvimento web com foco em:
 
 - 🧩 **HTML, CSS e JavaScript**
